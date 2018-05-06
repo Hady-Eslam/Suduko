@@ -1,4 +1,4 @@
-NEW MODIFICATIONS :-
+# NEW MODIFICATIONS :-
 1) make the user solve givin suduko
 2) make joks
 3) make more levels
