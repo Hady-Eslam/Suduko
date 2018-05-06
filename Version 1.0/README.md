@@ -3,10 +3,10 @@
 2) make joks
 3) make more levels
 
-BUGS :-
+# BUGS :-
 NONE
 
-EXPECTED IN NEW VERSION :-
+# EXPECTED IN NEW VERSION :-
 1) make the computer Solve any given suduko
 2) make the user solve given the sudoku
 3) make the computer generate new sudukos that is solvable
